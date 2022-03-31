@@ -1,0 +1,22 @@
+// Arduino IDE用 カラー定義 構造(オリーブ) 2022.03.31
+
+// 構造
+
+// 関数
+loop
+setup
+// 制御構造
+break
+continue
+do//...while
+else
+for
+goto
+if
+return
+//swith...
+case
+while
+// 文法
+#define
+#include

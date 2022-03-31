@@ -1,0 +1,73 @@
+// Arduino IDE用 カラー定義 関数(オレンジ) 2022.03.31
+
+// 関数
+
+// デジタルI/O
+digitalRead
+digitalWrite
+pinMode
+// アナログI/O
+analogRead
+analogReference
+analogWrite
+// Zero, Due, MKR Family
+analogReadResolution
+analogWriteResolution
+// 拡張I/O
+noTone
+pulseIn
+pulseInLong
+shiftIn
+shiftOut
+tone
+// 時間
+delay
+delayMicroseconds
+micros
+millis
+// 数学
+abs
+constrain
+map
+max
+min
+pow
+sq
+sqrt
+// 三角関数
+cos
+sin
+tan
+// 文字
+isAlpha
+isAlphaNumeric
+isAscii
+isControl
+isDigit
+isGraph
+isHexadecimalDigit
+isLowerCase
+isPrintable
+isPunct
+isSpace
+isUpperCase
+isWhitespace
+// 乱数
+random
+randomSeed
+// ビットとバイト
+bit
+bitClear
+bitRead
+bitSet
+bitWrite
+highByte
+lowByte
+// 外部割込み
+attachInterrupt
+detachInterrupt
+// 割り込み
+interrupts
+noInterrupts
+// データ型
+size_t
