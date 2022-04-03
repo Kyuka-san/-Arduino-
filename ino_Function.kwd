@@ -70,9 +70,5 @@ detachInterrupt
 interrupts
 noInterrupts
 // 通信
-Serial
-SPI
 Stream
 Wire
-// データ型
-size_t
