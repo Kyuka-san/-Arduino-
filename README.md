@@ -7,6 +7,10 @@ ino_Structureファイル・・・関数のうちの構造キーワードです�
 
 ino_Variableファイル・・・変数キーワードです。Arduino IDEのデフォルトカラーでグリーン色(R:0 G:151 B:156)になっているキーワードです。
 
+ino_Libraryファイル・・・ライブラリキーワードです。Arduino IDEのデフォルトカラーで太字オレンジ色(R:211 G:84 B:0)になっているキーワードです。
+
+ino_B_Variableファイル・・・変数キーワードです。Arduino IDEのデフォルトカラーで太字グリーン色(R:0 G:151 B:156)になっているキーワードです。
+
 # DEMO
 
 ![image](https://user-images.githubusercontent.com/102705837/160963548-c12bb0b6-ccd6-47d5-a978-d6117803f632.png)
