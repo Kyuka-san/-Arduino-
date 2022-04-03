@@ -1,22 +1,18 @@
-// Arduino(.ino)用 強調キーワード 構造(オリーブ R:128 G:128 B:0) 2022.03.31
+// Arduino(.ino)用 強調キーワード 構造(オリーブ R:128 G:128 B:0)
+// Arduino IDE ver.1.8.19
+// 2022.04.03作成
 
-// 構造
-
-// 関数
-loop
-setup
-// 制御構造
+#define
+#include
 break
+case
 continue
-do//...while
+do
 else
 for
 goto
 if
+loop
 return
-//swith...
-case
+setup
 while
-// 文法
-#define
-#include
