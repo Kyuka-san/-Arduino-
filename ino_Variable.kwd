@@ -1,51 +1,31 @@
-// Arduino(.ino)用 強調キーワード 変数(グリーン R:0 G:151 B:156) 2022.03.31
+// Arduino(.ino)用 強調キーワード 変数(グリーン R:0 G:151 B:156)
+// Arduino IDE ver.1.8.19
+// 2022.04.03作成
 
-// 変数
-
-// 定数
-// 浮動小数点数
-// 整数定数
+EsploraTFT
 HIGH
-LOW
 INPUT
-OUTPUT
 INPUT_PULLUP
 LED_BUILTIN
-true
-false
-// 変換
-// (unsigned int)
-// (unsigned long)
-unsigned
-byte
-char
-float
-int
-long
-word
-// データ型
-// Stringオブジェクト
-// 配列
+LOW
+OUTPUT
 bool
 boolean
 byte
 char
+const
 double
+false
 float
 int
 long
 short
-// string (文字の配列)
-// unsigned char
-// unsigned int
-// unsigned long
-void
-word
-// 変数の有効範囲と修飾子
-const
-static
-volatile
-// 変数の有効範囲
-// ユーティリティ
-PROGMEM
 sizeof
+static
+true
+unsigned char
+unsigned int
+unsigned long
+void
+volatile
+word
