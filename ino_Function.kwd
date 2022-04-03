@@ -1,74 +1,144 @@
-// Arduino(.ino)用 強調キーワード 関数(オレンジ R:211 G:84 B:0) 2022.03.31
+// Arduino(.ino)用 強調キーワード 関数(オレンジ R:211 G:84 B:0)
+// Arduino IDE ver.1.8.19
+// 2022.04.03作成
 
-// 関数
-
-// デジタルI/O
-digitalRead
-digitalWrite
-pinMode
-// アナログI/O
+File
+MACAddress
+Stream
+Wire
+abs
+accept
 analogRead
+analogReadResolution
 analogReference
 analogWrite
-// Zero, Due, MKR Family
-analogReadResolution
 analogWriteResolution
-// 拡張I/O
-noTone
-pulseIn
-pulseInLong
-shiftIn
-shiftOut
-tone
-// 時間
-delay
-delayMicroseconds
-micros
-millis
-// 数学
-abs
-constrain
-map
-max
-min
-pow
-sq
-sqrt
-// 三角関数
-cos
-sin
-tan
-// 文字
-isAlpha
-isAlphaNumeric
-isAscii
-isControl
-isDigit
-isGraph
-isHexadecimalDigit
-isLowerCase
-isPrintable
-isPunct
-isSpace
-isUpperCase
-isWhitespace
-// 乱数
-random
-randomSeed
-// ビットとバイト
+attach
+attachInterrupt
+attached
+autoscroll
+available
+begin
+beginPacket
 bit
 bitClear
 bitRead
 bitSet
 bitWrite
-highByte
-lowByte
-// 外部割込み
-attachInterrupt
+blink
+clear
+click
+close
+connect
+connected
+constrain
+cos
+createChar
+cursor
+delay
+delayMicroseconds
+detach
 detachInterrupt
-// 割り込み
+digitalRead
+digitalWrite
+display
+dnsServerIP
+end
+endPacket
+exists
+flush
+gatewayIP
+get
+hardwareStatus
+highByte
+home
 interrupts
+isAlpha
+isAlphaNumeric
+isAscii
+isControl
+isDigit
+isDirectory
+isGraph
+isHexadecimalDigit
+isListening
+isLowerCase
+isPressed
+isPrintable
+isPunct
+isSpace
+isUpperCase
+isWhitespace
+leftToRight
+linkStatus
+listen
+localIP
+localPort
+lowByte
+maintain
+map
+max
+micros
+millis
+min
+mkdir
+move
+name
+noAutoscroll
+noBlink
+noCursor
+noDisplay
 noInterrupts
-// 通信
-Stream
-Wire
+noTone
+open
+openNextFile
+overflow
+parsePacket
+peek
+pinMode
+position
+pow
+press
+print
+println
+pulseIn
+pulseInLong
+put
+random
+randomSeed
+read
+release
+releaseAll
+remoteIP
+remotePort
+remove
+rewindDirectory
+rightToLeft
+rmdir
+scrollDisplayLeft
+scrollDisplayRight
+seek
+setConnectionTimeout
+setCursor
+setDnsServerIP
+setGatewayIP
+setLocalIP
+setMACAddress
+setRetransmissionCount
+setRetransmissionTimeout
+setSpeed
+setSubnetMask
+shiftIn
+shiftOut
+sin
+size
+sq
+sqrt
+step
+stop
+subnetMask
+tan
+tone
+update
+write
+writeMicroseconds
