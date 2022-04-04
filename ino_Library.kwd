@@ -13,6 +13,8 @@ Keyboard
 LiquidCrystal
 Mouse
 SD
+SPI
+Serial
 Server
 Servo
 SoftwareSerial
