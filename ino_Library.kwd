@@ -2,12 +2,16 @@
 // Arduino IDE ver.1.8.19
 // 2022.04.03作成
 
+Bridge
 Client
 EEPROM
+Esplora
 Ethernet
 EthernetClient
 EthernetServer
 Firmata
+GPRS
+GSM
 IPAddress
 Keyboard
 LiquidCrystal
@@ -20,4 +24,5 @@ Servo
 SoftwareSerial
 Stepper
 TFT
+WiFi
 size_t
