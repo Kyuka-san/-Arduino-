@@ -9,6 +9,8 @@ INPUT_PULLUP
 LED_BUILTIN
 LOW
 OUTPUT
+String
+array
 bool
 boolean
 byte
@@ -19,6 +21,7 @@ false
 float
 int
 long
+operator
 short
 sizeof
 static
