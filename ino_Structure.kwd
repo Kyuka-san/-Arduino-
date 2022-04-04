@@ -4,6 +4,7 @@
 
 #define
 #include
+and
 break
 case
 continue
@@ -13,6 +14,9 @@ for
 goto
 if
 loop
+not
+or
 return
 setup
 while
+xor
