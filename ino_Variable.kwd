@@ -2,12 +2,16 @@
 // Arduino IDE ver.1.8.19
 // 2022.04.03作成
 
+BIN
+DEC
 EsploraTFT
+HEX
 HIGH
 INPUT
 INPUT_PULLUP
 LED_BUILTIN
 LOW
+OCT
 OUTPUT
 String
 array
