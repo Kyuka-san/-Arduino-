@@ -118,6 +118,7 @@ rmdir
 scrollDisplayLeft
 scrollDisplayRight
 seek
+send
 setConnectionTimeout
 setCursor
 setDnsServerIP
@@ -130,6 +131,7 @@ setSpeed
 setSubnetMask
 shiftIn
 shiftOut
+signal
 sin
 size
 sq
