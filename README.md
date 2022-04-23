@@ -1,4 +1,4 @@
-# -Arduino-
+# Description
 サクラエディタ用 Arduino 強調キーワード
 
 ino_Functionファイル・・・関数キーワードです。Arduino IDEのデフォルトカラーでオレンジ色(R:211 G:84 B:0)になっているキーワードです。
